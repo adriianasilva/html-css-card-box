@@ -1,0 +1,67 @@
+body{
+    font-family: inter, sans-serif;
+}
+
+h1{
+    font-size: 48px;
+    line-height: 58px;
+    margin-top: 0;
+    color: #1e1e26;
+}
+
+h2{
+    font-size: 26px;
+    line-height: 31px;
+    margin-bottom: 24px;
+    color: #3bb4b4;
+}
+
+div .num_ep{
+    font-size: 16px;
+    font-weight: 700;
+    color: #3bb4b4;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+div .ep_titulo{
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e1e26;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+div .duracao_data{
+    font-size: 16px;
+    font-weight: 500;
+    color: #747478;
+    margin-top: 10px;
+}
+
+.episodio{
+    max-width: 579px;
+    width: 49.5%;
+    box-sizing: border-box;
+    float: none;
+    line-height: normal;
+    position: static;
+    z-index: auto;
+}
+
+#titulo{
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+img{
+    border-radius: 6px;
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+#podcast{
+    margin-left: 50px;
+    
+}
